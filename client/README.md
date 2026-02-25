@@ -1,4 +1,4 @@
-# Inventory Management System
+# Simple Inventory Management System
 
 A simple app to manage your products — add, view, edit, and delete them with ease.
 
